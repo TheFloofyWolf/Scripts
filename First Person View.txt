@@ -1,7 +1,7 @@
 -- This Script Works Only With Roblox [Lua]
 
 -- Before ou Use This Script You Shall Go To Starter Player [Make Sure You Have The Properties Tab]> Camera > Camera Mode = LockFirstPerson]
--- Insert A LocalScript In StarterCharacterScripts
+-- Insert A LocalScript In StarterCharacterScripts, Name It "FirstPersonView"
 -- This Works Only With R6 !
 
 local player = game.Players.LocalPlayer
