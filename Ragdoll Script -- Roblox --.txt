@@ -51,7 +51,7 @@ collision_part.Transparency = 1
 local camera = workspace.CurrentCamera
 local char = script.Parent
 
-function RagdollV3()
+function Ragdoll 1()
 	char.Archivable = true
 	local ragdoll = char:clone()
 	char.Archivable = false
